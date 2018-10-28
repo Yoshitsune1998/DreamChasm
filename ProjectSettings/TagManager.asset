@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background Assets
+  - Playground Assets
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 860921805
+    locked: 0
+  - name: Background Assets
+    uniqueID: 284122421
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Playground Assets
+    uniqueID: 3672413543
+    locked: 0
+  - name: UI
+    uniqueID: 4163527387
+    locked: 0

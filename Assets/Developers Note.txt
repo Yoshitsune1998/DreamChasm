@@ -1,0 +1,14 @@
+default position : Line 1 X : -2.25 0 2.25
+		          Y : -1.25
+		   Line 2 Y : 1.10
+		   Line 3 Y : 3.45
+default size 	 : Line 1 : 0.95 x 0.95
+		   Line 2 : 0.60 x 0.60
+		   Line 3 : 0.25 x 0.25
+
+default invisibility : Line 1 : 255
+		       Line 2 : 255
+		       Line 3 : 185
+
+
+difference : 2.35f;
